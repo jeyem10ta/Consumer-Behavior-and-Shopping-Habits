@@ -3,6 +3,7 @@
 SELECT Gender, COUNT(*) AS Count
 FROM Customers
 GROUP BY Gender; 
+![Alt text](image link)
 
 -- How does the purchase behavior vary across different age groups and genders?
 SELECT c.Age, c.Gender, COUNT(*) AS PurchaseCount, AVG(p.PurchaseAmount) AS AvgPurchaseAmount
