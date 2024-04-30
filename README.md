@@ -11,48 +11,70 @@ You can find the dataset [here](https://www.kaggle.com/datasets/zeesolver/consum
 
 1. Created a [database](https://github.com/jeyem10ta/Consumer-Behavior-and-Shopping-Habits/blob/main/Consumer%20Behavior%20Project.sql) for the dataset and [EDA](https://github.com/jeyem10ta/Consumer-Behavior-and-Shopping-Habits/blob/main/EDA%20Consumer%20Behavior.sql) in MySQL and inserted values via Table Data Import Wizard from CSV into MySQL Workbench. 
 
+
 The dataset offers a detailed overview of consumer preferences and purchasing behaviors. It includes:
+
 
 Demographic Information: Customer ID, Age, Gender
 
+
 Purchase History: Item Purchased, Category, Purchase Amount (USD), Review Rating, Discount Applied, Promo Code Used, Payment Method
 
+
 Product Preferences: Size, Color, Season
+
 
 Shopping Behavior: Location, Subscription Status, Shipping Type, Frequency of Purchases, Previous Purchases
 
 # Dataset Glossary 
+
 Customer ID: A unique identifier assigned to each individual customer.
+
 
 Age: The age of the customer.
 
+
 Gender: The gender identification of the customer.
+
 
 Item Purchased: The specific product or item selected by the customer during the transaction.
 
+
 Category: The broad classification or group to which the purchased item belongs.
+
 
 Purchase Amount (USD): The monetary value of the transaction.
 
+
 Location: The geographical location where the purchase was made.
+
 
 Size: The size specification of the purchased item.
 
+
 Color: The color variant associated with the purchased item.
+
 
 Season: The seasonal relevance of the purchased item.
 
+
 Review Rating: A numerical or qualitative assessment provided by the customer regarding their satisfaction.
+
 
 Subscription Status: Indicates whether the customer has opted for a subscription service.
 
+
 Shipping Type: Specifies the method used to deliver the purchased item.
+
 
 Discount Applied: Indicates if any promotional discounts were applied to the purchase.
 
+
 Promo Code Used: Notes whether a promotional code or coupon was utilized during the transaction.
 
+
 Previous Purchases: Provides information on the number or frequency of prior purchases made by the customer.
+
 
 Payment Method: Specifies the mode of payment employed by the customer.
 
