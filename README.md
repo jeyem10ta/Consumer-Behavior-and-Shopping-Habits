@@ -1,4 +1,4 @@
-# EDA Consumer Behavior and Shopping Habits Project
+# EDA | Consumer Behavior and Shopping Habits Project
 
 # Data Source
 
